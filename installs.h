@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <sys/time.h>
-#include <conio.h>
 #define TRUE 1
 #define FALSE 0
 void clear(void);
